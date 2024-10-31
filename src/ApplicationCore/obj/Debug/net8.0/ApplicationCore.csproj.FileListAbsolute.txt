@@ -1,0 +1,16 @@
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/BlazorShared.dll
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/BlazorShared.pdb
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/Applicat.71DDEAC9.Up2Date
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll

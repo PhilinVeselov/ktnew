@@ -1,0 +1,37 @@
+version: '3.4'
+
+services:
+  useradminservice:
+    container_name: useradminservice
+    build:
+      context: .
+      dockerfile: src/UserAdminService/Dockerfile
+    ports:
+      - "5001:80" 
+
+  eshopwebmvc:
+    container_name: eshopwebmvc
+    image: ${DOCKER_REGISTRY-}eshopwebmvc
+    build:
+      context: .
+      dockerfile: src/Web/Dockerfile
+    depends_on:
+      - "sqlserver"
+
+  eshoppublicapi:
+    container_name: eshoppublicapi
+    image: ${DOCKER_REGISTRY-}eshoppublicapi
+    build:
+      context: .
+      dockerfile: src/PublicApi/Dockerfile
+    depends_on:
+      - "sqlserver"
+
+  sqlserver:
+    container_name: sqlserver
+    image: mcr.microsoft.com/azure-sql-edge
+    ports:
+      - "1433:1433"
+    environment:
+      - SA_PASSWORD=@someThingComplicated1234
+      - ACCEPT_EULA=Y

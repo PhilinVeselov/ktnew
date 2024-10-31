@@ -1,0 +1,13 @@
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/bin/Debug/net8.0/BlazorShared.deps.json
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/bin/Debug/net8.0/BlazorShared.dll
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/bin/Debug/net8.0/BlazorShared.pdb
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.csproj.AssemblyReference.cache
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.AssemblyInfoInputs.cache
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.AssemblyInfo.cs
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.csproj.CoreCompileInputs.cache
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.sourcelink.json
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.dll
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/refint/BlazorShared.dll
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.pdb
+/Users/phulaveselov/Desktop/хлам/kt4/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/ref/BlazorShared.dll
